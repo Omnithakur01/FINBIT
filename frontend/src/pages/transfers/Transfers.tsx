@@ -1,0 +1,1 @@
+import AppLayout from '../../components/layout/AppLayout'; export default function Transfers() { return (<AppLayout><div className='bg-white p-8 rounded-2xl border border-slate-200 shadow-sm'><h1 className='text-2xl font-bold text-slate-900 mb-4'>Transfer History</h1><p className='text-slate-500'>Your recent transfers will appear here.</p></div></AppLayout>); }
